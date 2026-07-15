@@ -1,35 +1,35 @@
 {
-  "total": 9410,
-  "days": 27,
+  "total": 9653,
+  "days": 28,
   "first_date": "2026-06-04",
-  "last_date": "2026-07-14",
+  "last_date": "2026-07-15",
   "by_case": {
-    "A": 5549,
-    "B": 3861
+    "A": 5678,
+    "B": 3975
   },
   "by_tf": {
-    "D": 8111,
+    "D": 8317,
     "M": 27,
-    "W": 1272
+    "W": 1309
   },
   "by_state": {
-    "1": 6247,
+    "1": 6293,
     "2": 1435,
-    "3": 1618,
+    "3": 1815,
     "5": 110
   },
   "by_market": {
-    "kr": 1363,
-    "us": 8047
+    "kr": 1409,
+    "us": 8244
   },
   "by_tags": {
-    "": 5549,
-    "FAIL_STRONG": 2579,
-    "FAIL_WEAK": 1282
+    "": 5678,
+    "FAIL_STRONG": 2652,
+    "FAIL_WEAK": 1323
   },
   "recent": [
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "kr",
       "state": 1,
       "code": "048830",
@@ -37,7 +37,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 2.33,
       "ret_5d": null,
       "ret_20d": null,
@@ -46,16 +46,16 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "kr",
       "state": 1,
-      "code": "278990",
-      "name": "EMB",
+      "code": "014100",
+      "name": "메디앙스",
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 10.4,
+      "age": 0,
+      "breakout_pct": 1.71,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -63,16 +63,16 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "kr",
       "state": 1,
-      "code": "331660",
-      "name": "한국미라클피플사",
-      "primary_case": "B",
-      "tags": "FAIL_STRONG",
+      "code": "067730",
+      "name": "로지시스",
+      "primary_case": "A",
+      "tags": "",
       "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 1.75,
+      "age": 0,
+      "breakout_pct": 0.69,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -80,7 +80,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "kr",
       "state": 1,
       "code": "317860",
@@ -88,7 +88,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 2.22,
       "ret_5d": null,
       "ret_20d": null,
@@ -97,50 +97,16 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "kr",
       "state": 1,
       "code": "131090",
       "name": "시큐브",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 3,
-      "breakout_pct": 2.02,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-07-14",
-      "market": "kr",
-      "state": 1,
-      "code": "030720",
-      "name": "동원수산",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 3,
-      "breakout_pct": 0.68,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-07-14",
-      "market": "kr",
-      "state": 1,
-      "code": "007720",
-      "name": "소노스퀘어",
-      "primary_case": "A",
-      "tags": "",
+      "primary_case": "B",
+      "tags": "FAIL_WEAK",
       "primary_tf": "D",
       "age": 0,
-      "breakout_pct": 178.39,
+      "breakout_pct": 0.92,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -148,7 +114,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "kr",
       "state": 1,
       "code": "239610",
@@ -156,7 +122,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.48,
       "ret_5d": null,
       "ret_20d": null,
@@ -165,7 +131,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
+      "market": "kr",
+      "state": 1,
+      "code": "030720",
+      "name": "동원수산",
+      "primary_case": "B",
+      "tags": "FAIL_STRONG",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 9.55,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-07-15",
       "market": "kr",
       "state": 1,
       "code": "191600",
@@ -174,7 +157,7 @@
       "tags": "FAIL_STRONG",
       "primary_tf": "W",
       "age": 0,
-      "breakout_pct": 13.89,
+      "breakout_pct": 13.79,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -182,7 +165,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "kr",
       "state": 1,
       "code": "021650",
@@ -190,7 +173,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 0.71,
       "ret_5d": null,
       "ret_20d": null,
@@ -199,7 +182,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
+      "market": "kr",
+      "state": 1,
+      "code": "052600",
+      "name": "한네트",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 0.81,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-07-15",
       "market": "kr",
       "state": 1,
       "code": "134790",
@@ -207,7 +207,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 1.03,
       "ret_5d": null,
       "ret_20d": null,
@@ -216,16 +216,16 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "kr",
       "state": 1,
-      "code": "005360",
-      "name": "모나미",
-      "primary_case": "B",
-      "tags": "FAIL_STRONG",
+      "code": "025530",
+      "name": "SJM홀딩스",
+      "primary_case": "A",
+      "tags": "",
       "primary_tf": "D",
-      "age": 2,
-      "breakout_pct": 19.3,
+      "age": 0,
+      "breakout_pct": 0.57,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -233,7 +233,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "kr",
       "state": 1,
       "code": "036120",
@@ -241,7 +241,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.32,
       "ret_5d": null,
       "ret_20d": null,
@@ -250,33 +250,16 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
-      "market": "kr",
-      "state": 1,
-      "code": "005670",
-      "name": "푸드웰",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 2,
-      "breakout_pct": 0.64,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "kr",
       "state": 1,
       "code": "214330",
       "name": "금호에이치티",
       "primary_case": "A",
       "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 25.03,
+      "primary_tf": "W",
+      "age": 1,
+      "breakout_pct": 24.17,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -284,7 +267,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
+      "market": "kr",
+      "state": 1,
+      "code": "004770",
+      "name": "써니전자",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 3.35,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-07-15",
       "market": "us",
       "state": 3,
       "code": "ZLAB",
@@ -292,7 +292,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 0.76,
       "ret_5d": null,
       "ret_20d": null,
@@ -301,7 +301,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "us",
       "state": 3,
       "code": "ZBH",
@@ -318,7 +318,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "us",
       "state": 3,
       "code": "YUM",
@@ -335,7 +335,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "us",
       "state": 3,
       "code": "XP",
@@ -343,7 +343,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.2,
       "ret_5d": null,
       "ret_20d": null,
@@ -352,24 +352,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
-      "market": "us",
-      "state": 3,
-      "code": "XENE",
-      "name": "Xenon Pharmaceuticals Inc",
-      "primary_case": "B",
-      "tags": "FAIL_WEAK",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 2.82,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "us",
       "state": 3,
       "code": "WRB",
@@ -386,7 +369,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "us",
       "state": 3,
       "code": "WM",
@@ -403,7 +386,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "us",
       "state": 3,
       "code": "WERN",
@@ -420,7 +403,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "us",
       "state": 3,
       "code": "WELL",
@@ -437,7 +420,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "us",
       "state": 3,
       "code": "WDFC",
@@ -454,7 +437,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "us",
       "state": 3,
       "code": "WB",
@@ -462,7 +445,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 0.52,
       "ret_5d": null,
       "ret_20d": null,
@@ -471,7 +454,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "us",
       "state": 3,
       "code": "VTR",
@@ -488,7 +471,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "us",
       "state": 3,
       "code": "VRSN",
@@ -505,7 +488,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "us",
       "state": 3,
       "code": "VRSK",
@@ -522,7 +505,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "market": "us",
       "state": 3,
       "code": "VOD",
@@ -532,6 +515,23 @@
       "primary_tf": "D",
       "age": 1,
       "breakout_pct": 9.93,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-07-15",
+      "market": "us",
+      "state": 3,
+      "code": "VLO",
+      "name": "Valero Energy",
+      "primary_case": "B",
+      "tags": "FAIL_STRONG",
+      "primary_tf": "D",
+      "age": 3,
+      "breakout_pct": 2.9,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
