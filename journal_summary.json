@@ -1,35 +1,35 @@
 {
-  "total": 13762,
-  "days": 41,
+  "total": 14133,
+  "days": 42,
   "first_date": "2026-06-04",
-  "last_date": "2026-08-03",
+  "last_date": "2026-08-04",
   "by_case": {
-    "A": 8050,
-    "B": 5712
+    "A": 8257,
+    "B": 5876
   },
   "by_tf": {
-    "D": 12005,
-    "M": 37,
-    "W": 1720
+    "D": 12349,
+    "M": 38,
+    "W": 1746
   },
   "by_state": {
-    "1": 7326,
-    "2": 3888,
+    "1": 7373,
+    "2": 4212,
     "3": 2438,
     "5": 110
   },
   "by_market": {
-    "kr": 2247,
-    "us": 11515
+    "kr": 2294,
+    "us": 11839
   },
   "by_tags": {
-    "": 8050,
-    "FAIL_STRONG": 3845,
-    "FAIL_WEAK": 1867
+    "": 8257,
+    "FAIL_STRONG": 3978,
+    "FAIL_WEAK": 1898
   },
   "recent": [
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "kr",
       "state": 1,
       "code": "189350",
@@ -37,7 +37,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 4.49,
       "ret_5d": null,
       "ret_20d": null,
@@ -46,7 +46,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "kr",
       "state": 1,
       "code": "208850",
@@ -54,7 +54,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 2.0,
       "ret_5d": null,
       "ret_20d": null,
@@ -63,16 +63,16 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "kr",
       "state": 1,
-      "code": "179720",
-      "name": "머니무브",
+      "code": "191410",
+      "name": "육일씨엔에쓰",
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
-      "breakout_pct": 2.38,
+      "age": 0,
+      "breakout_pct": 8.94,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -80,7 +80,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
+      "market": "kr",
+      "state": 1,
+      "code": "361670",
+      "name": "삼영에스앤씨",
+      "primary_case": "B",
+      "tags": "FAIL_STRONG",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 0.56,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-08-04",
       "market": "kr",
       "state": 1,
       "code": "054410",
@@ -88,7 +105,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.93,
       "ret_5d": null,
       "ret_20d": null,
@@ -97,7 +114,41 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
+      "market": "kr",
+      "state": 1,
+      "code": "083660",
+      "name": "CSA 코스믹",
+      "primary_case": "B",
+      "tags": "FAIL_STRONG",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 148.17,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-08-04",
+      "market": "kr",
+      "state": 1,
+      "code": "179720",
+      "name": "머니무브",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 2,
+      "breakout_pct": 2.38,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-08-04",
       "market": "kr",
       "state": 1,
       "code": "054090",
@@ -105,7 +156,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 7.29,
       "ret_5d": null,
       "ret_20d": null,
@@ -114,7 +165,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "kr",
       "state": 1,
       "code": "044780",
@@ -122,7 +173,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 3.95,
       "ret_5d": null,
       "ret_20d": null,
@@ -131,7 +182,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "kr",
       "state": 1,
       "code": "025890",
@@ -139,7 +190,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 0.66,
       "ret_5d": null,
       "ret_20d": null,
@@ -148,7 +199,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "kr",
       "state": 1,
       "code": "354390",
@@ -156,7 +207,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 2.57,
       "ret_5d": null,
       "ret_20d": null,
@@ -165,7 +216,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
+      "market": "kr",
+      "state": 1,
+      "code": "016920",
+      "name": "카스",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 1.68,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-08-04",
       "market": "kr",
       "state": 1,
       "code": "446440",
@@ -173,7 +241,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.25,
       "ret_5d": null,
       "ret_20d": null,
@@ -182,7 +250,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "kr",
       "state": 1,
       "code": "027740",
@@ -190,7 +258,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 1.27,
       "ret_5d": null,
       "ret_20d": null,
@@ -199,67 +267,16 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "kr",
       "state": 1,
-      "code": "191600",
-      "name": "블루탑",
+      "code": "250000",
+      "name": "보라티알",
       "primary_case": "A",
       "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 2.27,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-08-03",
-      "market": "kr",
-      "state": 1,
-      "code": "224110",
-      "name": "에이텍모빌리티",
-      "primary_case": "B",
-      "tags": "FAIL_STRONG",
-      "primary_tf": "D",
-      "age": 1,
-      "breakout_pct": 3.82,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-08-03",
-      "market": "kr",
-      "state": 1,
-      "code": "051390",
-      "name": "YW",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 1.6,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-08-03",
-      "market": "kr",
-      "state": 1,
-      "code": "002920",
-      "name": "유성기업",
-      "primary_case": "B",
-      "tags": "FAIL_WEAK",
       "primary_tf": "D",
       "age": 0,
-      "breakout_pct": 2.35,
+      "breakout_pct": 2.84,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -267,24 +284,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
-      "market": "kr",
-      "state": 1,
-      "code": "332370",
-      "name": "아이디피",
-      "primary_case": "B",
-      "tags": "FAIL_STRONG",
-      "primary_tf": "D",
-      "age": 1,
-      "breakout_pct": 0.75,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "ZD",
@@ -301,7 +301,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "ZBRA",
@@ -318,7 +318,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "ZBH",
@@ -335,7 +335,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "YUM",
@@ -352,7 +352,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "XYL",
@@ -369,7 +369,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "XOM",
@@ -386,7 +386,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "WYNN",
@@ -403,7 +403,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "WY",
@@ -420,7 +420,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "WTW",
@@ -437,7 +437,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "WSM",
@@ -454,7 +454,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "WLTH",
@@ -471,7 +471,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "WABC",
@@ -488,7 +488,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "WAB",
@@ -505,7 +505,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "VTRS",
@@ -522,7 +522,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "market": "us",
       "state": 2,
       "code": "VSNT",
