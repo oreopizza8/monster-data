@@ -1,52 +1,35 @@
 {
-  "total": 18218,
-  "days": 51,
+  "total": 18713,
+  "days": 52,
   "first_date": "2026-06-04",
-  "last_date": "2026-08-17",
+  "last_date": "2026-08-18",
   "by_case": {
-    "A": 10876,
-    "B": 7342
+    "A": 11240,
+    "B": 7473
   },
   "by_tf": {
-    "D": 16173,
-    "M": 48,
-    "W": 1997
+    "D": 16626,
+    "M": 49,
+    "W": 2038
   },
   "by_state": {
-    "1": 9509,
+    "1": 10004,
     "2": 5144,
     "3": 3455,
     "5": 110
   },
   "by_market": {
-    "kr": 4201,
-    "us": 14017
+    "kr": 4465,
+    "us": 14248
   },
   "by_tags": {
-    "": 10876,
-    "FAIL_STRONG": 5049,
-    "FAIL_WEAK": 2293
+    "": 11240,
+    "FAIL_STRONG": 5132,
+    "FAIL_WEAK": 2341
   },
   "recent": [
     {
-      "date": "2026-08-17",
-      "market": "kr",
-      "state": 1,
-      "code": "234070",
-      "name": "에이원큐브텍",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 0.65,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "kr",
       "state": 1,
       "code": "199150",
@@ -54,7 +37,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 5.26,
       "ret_5d": null,
       "ret_20d": null,
@@ -63,7 +46,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "kr",
       "state": 1,
       "code": "233250",
@@ -71,7 +54,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 2.08,
       "ret_5d": null,
       "ret_20d": null,
@@ -80,7 +63,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "kr",
       "state": 1,
       "code": "217320",
@@ -88,7 +71,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 9.09,
       "ret_5d": null,
       "ret_20d": null,
@@ -97,24 +80,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
-      "market": "kr",
-      "state": 1,
-      "code": "351020",
-      "name": "미쥬",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 11.68,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "kr",
       "state": 1,
       "code": "208850",
@@ -122,7 +88,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.92,
       "ret_5d": null,
       "ret_20d": null,
@@ -131,7 +97,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
+      "market": "kr",
+      "state": 1,
+      "code": "177350",
+      "name": "베셀",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 15.32,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-08-18",
       "market": "kr",
       "state": 1,
       "code": "254160",
@@ -139,7 +122,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 3.12,
       "ret_5d": null,
       "ret_20d": null,
@@ -148,75 +131,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
-      "market": "kr",
-      "state": 1,
-      "code": "377220",
-      "name": "프롬바이오",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 29.82,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-08-17",
-      "market": "kr",
-      "state": 1,
-      "code": "018700",
-      "name": "졸스",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 1.82,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-08-17",
-      "market": "kr",
-      "state": 1,
-      "code": "096870",
-      "name": "엘디티",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 1,
-      "breakout_pct": 1.04,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-08-17",
-      "market": "kr",
-      "state": 1,
-      "code": "024940",
-      "name": "PN풍년",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 0.99,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "kr",
       "state": 1,
       "code": "009730",
@@ -224,7 +139,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 5.25,
       "ret_5d": null,
       "ret_20d": null,
@@ -233,16 +148,16 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "kr",
       "state": 1,
-      "code": "331660",
-      "name": "한국미라클피플사",
-      "primary_case": "B",
-      "tags": "FAIL_STRONG",
+      "code": "048830",
+      "name": "엔피케이",
+      "primary_case": "A",
+      "tags": "",
       "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 2.14,
+      "age": 0,
+      "breakout_pct": 2.2,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -250,7 +165,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
+      "market": "kr",
+      "state": 1,
+      "code": "096870",
+      "name": "엘디티",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 2,
+      "breakout_pct": 1.04,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-08-18",
       "market": "kr",
       "state": 1,
       "code": "080470",
@@ -258,7 +190,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 3.35,
       "ret_5d": null,
       "ret_20d": null,
@@ -267,7 +199,41 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
+      "market": "kr",
+      "state": 1,
+      "code": "090150",
+      "name": "아이윈",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 4.21,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-08-18",
+      "market": "kr",
+      "state": 1,
+      "code": "277410",
+      "name": "인산가",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 2,
+      "breakout_pct": 1.37,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-08-18",
       "market": "kr",
       "state": 1,
       "code": "278990",
@@ -275,7 +241,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 1.79,
       "ret_5d": null,
       "ret_20d": null,
@@ -284,7 +250,41 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
+      "market": "kr",
+      "state": 1,
+      "code": "047080",
+      "name": "한빛소프트",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 3,
+      "breakout_pct": 0.56,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-08-18",
+      "market": "kr",
+      "state": 1,
+      "code": "053060",
+      "name": "세동",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 3,
+      "breakout_pct": 0.7,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "ZLAB",
@@ -301,7 +301,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "ZBH",
@@ -318,7 +318,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "WSE",
@@ -335,7 +335,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "WMB",
@@ -352,7 +352,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "WBD",
@@ -369,7 +369,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "VZ",
@@ -386,7 +386,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "VRTX",
@@ -403,7 +403,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "VRT",
@@ -420,7 +420,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "VOD",
@@ -437,7 +437,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "VLO",
@@ -454,7 +454,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "VCTR",
@@ -471,7 +471,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "USB",
@@ -488,7 +488,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "UMBF",
@@ -505,7 +505,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "TYL",
@@ -522,7 +522,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "market": "us",
       "state": 1,
       "code": "TXRH",
@@ -531,7 +531,7 @@
       "tags": "FAIL_STRONG",
       "primary_tf": "W",
       "age": 2,
-      "breakout_pct": 2.66,
+      "breakout_pct": 4.05,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
