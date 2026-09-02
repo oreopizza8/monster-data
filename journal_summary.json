@@ -1,35 +1,35 @@
 {
-  "total": 22386,
-  "days": 62,
+  "total": 22709,
+  "days": 63,
   "first_date": "2026-06-04",
-  "last_date": "2026-09-01",
+  "last_date": "2026-09-02",
   "by_case": {
-    "A": 13830,
-    "B": 8556
+    "A": 14049,
+    "B": 8660
   },
   "by_tf": {
-    "D": 20033,
+    "D": 20340,
     "M": 58,
-    "W": 2295
+    "W": 2311
   },
   "by_state": {
-    "1": 13538,
-    "2": 5283,
+    "1": 13718,
+    "2": 5426,
     "3": 3455,
     "5": 110
   },
   "by_market": {
-    "kr": 6048,
-    "us": 16338
+    "kr": 6228,
+    "us": 16481
   },
   "by_tags": {
-    "": 13830,
-    "FAIL_STRONG": 5825,
-    "FAIL_WEAK": 2731
+    "": 14049,
+    "FAIL_STRONG": 5903,
+    "FAIL_WEAK": 2757
   },
   "recent": [
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "kr",
       "state": 1,
       "code": "224760",
@@ -37,7 +37,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 14.97,
       "ret_5d": null,
       "ret_20d": null,
@@ -46,7 +46,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "kr",
       "state": 1,
       "code": "012340",
@@ -54,7 +54,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 2.22,
       "ret_5d": null,
       "ret_20d": null,
@@ -63,7 +63,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
+      "market": "kr",
+      "state": 1,
+      "code": "142760",
+      "name": "모아라이프플러스",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 2,
+      "breakout_pct": 29.94,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-02",
       "market": "kr",
       "state": 1,
       "code": "052960",
@@ -71,7 +88,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 2.87,
       "ret_5d": null,
       "ret_20d": null,
@@ -80,7 +97,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "kr",
       "state": 1,
       "code": "365900",
@@ -88,7 +105,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.35,
       "ret_5d": null,
       "ret_20d": null,
@@ -97,7 +114,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "kr",
       "state": 1,
       "code": "900270",
@@ -114,16 +131,16 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "kr",
       "state": 1,
-      "code": "142760",
-      "name": "모아라이프플러스",
+      "code": "080470",
+      "name": "성창오토텍",
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
-      "breakout_pct": 29.94,
+      "age": 0,
+      "breakout_pct": 2.24,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -131,7 +148,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "kr",
       "state": 1,
       "code": "415380",
@@ -139,7 +156,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 1.35,
       "ret_5d": null,
       "ret_20d": null,
@@ -148,7 +165,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "kr",
       "state": 1,
       "code": "023770",
@@ -156,7 +173,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 7.02,
       "ret_5d": null,
       "ret_20d": null,
@@ -165,7 +182,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "kr",
       "state": 1,
       "code": "241840",
@@ -173,7 +190,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.64,
       "ret_5d": null,
       "ret_20d": null,
@@ -182,24 +199,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
-      "market": "kr",
-      "state": 1,
-      "code": "336040",
-      "name": "타스컴",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 2.63,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "kr",
       "state": 1,
       "code": "131180",
@@ -207,7 +207,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 3.1,
       "ret_5d": null,
       "ret_20d": null,
@@ -216,41 +216,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
-      "market": "kr",
-      "state": 1,
-      "code": "044780",
-      "name": "에이치케이",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 2,
-      "breakout_pct": 0.9,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-01",
-      "market": "kr",
-      "state": 1,
-      "code": "083660",
-      "name": "CSA 코스믹",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 30.0,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "kr",
       "state": 1,
       "code": "169330",
@@ -258,7 +224,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.64,
       "ret_5d": null,
       "ret_20d": null,
@@ -267,16 +233,16 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "kr",
       "state": 1,
-      "code": "146060",
-      "name": "율촌",
+      "code": "044780",
+      "name": "에이치케이",
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
-      "breakout_pct": 1.89,
+      "age": 3,
+      "breakout_pct": 0.9,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -284,7 +250,41 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
+      "market": "kr",
+      "state": 1,
+      "code": "043200",
+      "name": "파루",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 4,
+      "breakout_pct": 29.98,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-02",
+      "market": "kr",
+      "state": 1,
+      "code": "222980",
+      "name": "한국맥널티",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 1.58,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "XYZ",
@@ -301,7 +301,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "WMG",
@@ -318,7 +318,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "WLDN",
@@ -326,7 +326,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 0.61,
       "ret_5d": null,
       "ret_20d": null,
@@ -335,7 +335,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "WAY",
@@ -352,7 +352,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "VTRS",
@@ -369,7 +369,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "VSNT",
@@ -386,7 +386,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "VRNS",
@@ -403,7 +403,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "VLO",
@@ -420,7 +420,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "VISN",
@@ -437,7 +437,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "VIR",
@@ -445,8 +445,8 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 6.25,
+      "age": 0,
+      "breakout_pct": 1.48,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -454,7 +454,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "VERX",
@@ -471,7 +471,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "VEEV",
@@ -488,7 +488,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "VCYT",
@@ -505,7 +505,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "VCTR",
@@ -522,7 +522,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "market": "us",
       "state": 2,
       "code": "V",
