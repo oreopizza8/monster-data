@@ -1,35 +1,35 @@
 {
-  "total": 23902,
-  "days": 67,
+  "total": 24202,
+  "days": 68,
   "first_date": "2026-06-04",
-  "last_date": "2026-09-08",
+  "last_date": "2026-09-09",
   "by_case": {
-    "A": 14860,
-    "B": 9042
+    "A": 15072,
+    "B": 9130
   },
   "by_tf": {
-    "D": 21456,
+    "D": 21743,
     "M": 58,
-    "W": 2388
+    "W": 2401
   },
   "by_state": {
-    "1": 14780,
+    "1": 15080,
     "2": 5557,
     "3": 3455,
     "5": 110
   },
   "by_market": {
-    "kr": 6878,
-    "us": 17024
+    "kr": 7032,
+    "us": 17170
   },
   "by_tags": {
-    "": 14860,
-    "FAIL_STRONG": 6176,
-    "FAIL_WEAK": 2866
+    "": 15072,
+    "FAIL_STRONG": 6237,
+    "FAIL_WEAK": 2893
   },
   "recent": [
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "kr",
       "state": 1,
       "code": "217320",
@@ -37,7 +37,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 5.88,
       "ret_5d": null,
       "ret_20d": null,
@@ -46,7 +46,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "kr",
       "state": 1,
       "code": "169670",
@@ -54,7 +54,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 0.72,
       "ret_5d": null,
       "ret_20d": null,
@@ -63,7 +63,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "kr",
       "state": 1,
       "code": "006050",
@@ -71,7 +71,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 7.36,
       "ret_5d": null,
       "ret_20d": null,
@@ -80,7 +80,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
+      "market": "kr",
+      "state": 1,
+      "code": "335870",
+      "name": "윙스풋",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 0.57,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-09",
       "market": "kr",
       "state": 1,
       "code": "037400",
@@ -88,7 +105,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 23.42,
       "ret_5d": null,
       "ret_20d": null,
@@ -97,24 +114,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
-      "market": "kr",
-      "state": 1,
-      "code": "080470",
-      "name": "성창오토텍",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 2.24,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "kr",
       "state": 1,
       "code": "023790",
@@ -122,7 +122,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 7.48,
       "ret_5d": null,
       "ret_20d": null,
@@ -131,7 +131,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "kr",
       "state": 1,
       "code": "065370",
@@ -139,7 +139,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 0.87,
       "ret_5d": null,
       "ret_20d": null,
@@ -148,7 +148,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "kr",
       "state": 1,
       "code": "069330",
@@ -156,7 +156,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 4.72,
       "ret_5d": null,
       "ret_20d": null,
@@ -165,7 +165,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
+      "market": "kr",
+      "state": 1,
+      "code": "187220",
+      "name": "디티앤씨",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 2.81,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-09",
       "market": "kr",
       "state": 1,
       "code": "032080",
@@ -173,7 +190,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.01,
       "ret_5d": null,
       "ret_20d": null,
@@ -182,7 +199,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "kr",
       "state": 1,
       "code": "403360",
@@ -190,7 +207,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 3.07,
       "ret_5d": null,
       "ret_20d": null,
@@ -199,24 +216,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
-      "market": "kr",
-      "state": 1,
-      "code": "222980",
-      "name": "한국맥널티",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 1.58,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "kr",
       "state": 1,
       "code": "169330",
@@ -224,7 +224,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.09,
       "ret_5d": null,
       "ret_20d": null,
@@ -233,7 +233,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "kr",
       "state": 1,
       "code": "016670",
@@ -241,7 +241,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 2.65,
       "ret_5d": null,
       "ret_20d": null,
@@ -250,7 +250,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "kr",
       "state": 1,
       "code": "146060",
@@ -258,7 +258,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.2,
       "ret_5d": null,
       "ret_20d": null,
@@ -267,7 +267,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "kr",
       "state": 1,
       "code": "044780",
@@ -275,7 +275,7 @@
       "primary_case": "B",
       "tags": "FAIL_WEAK",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 2.57,
       "ret_5d": null,
       "ret_20d": null,
@@ -284,7 +284,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "us",
       "state": 1,
       "code": "ZYME",
@@ -292,7 +292,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.4,
       "ret_5d": null,
       "ret_20d": null,
@@ -301,7 +301,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
+      "market": "us",
+      "state": 1,
+      "code": "WRD",
+      "name": "WeRide Inc ADR",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 1.0,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-09",
       "market": "us",
       "state": 1,
       "code": "WMT",
@@ -309,7 +326,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.54,
       "ret_5d": null,
       "ret_20d": null,
@@ -318,7 +335,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "us",
       "state": 1,
       "code": "WMG",
@@ -326,7 +343,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 3.16,
       "ret_5d": null,
       "ret_20d": null,
@@ -335,7 +352,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
+      "market": "us",
+      "state": 1,
+      "code": "WLFC",
+      "name": "Willis Lease Finance Corporation",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 2.01,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-09",
       "market": "us",
       "state": 1,
       "code": "WERN",
@@ -343,7 +377,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.37,
       "ret_5d": null,
       "ret_20d": null,
@@ -352,7 +386,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "us",
       "state": 1,
       "code": "VRNS",
@@ -360,7 +394,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 3.75,
       "ret_5d": null,
       "ret_20d": null,
@@ -369,7 +403,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "us",
       "state": 1,
       "code": "VOD",
@@ -377,7 +411,7 @@
       "primary_case": "B",
       "tags": "FAIL_WEAK",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 0.85,
       "ret_5d": null,
       "ret_20d": null,
@@ -386,16 +420,16 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "us",
       "state": 1,
       "code": "VLO",
       "name": "Valero Energy",
       "primary_case": "B",
-      "tags": "FAIL_STRONG",
+      "tags": "FAIL_WEAK",
       "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 1.68,
+      "age": 0,
+      "breakout_pct": 2.06,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -403,7 +437,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "us",
       "state": 1,
       "code": "VIR",
@@ -411,7 +445,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 1.48,
       "ret_5d": null,
       "ret_20d": null,
@@ -420,7 +454,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "us",
       "state": 1,
       "code": "VEON",
@@ -428,7 +462,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 3.61,
       "ret_5d": null,
       "ret_20d": null,
@@ -437,7 +471,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "us",
       "state": 1,
       "code": "V",
@@ -445,7 +479,7 @@
       "primary_case": "B",
       "tags": "FAIL_WEAK",
       "primary_tf": "W",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 2.23,
       "ret_5d": null,
       "ret_20d": null,
@@ -454,7 +488,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "us",
       "state": 1,
       "code": "UFCS",
@@ -462,7 +496,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 0.5,
       "ret_5d": null,
       "ret_20d": null,
@@ -471,7 +505,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "us",
       "state": 1,
       "code": "TSLA",
@@ -479,7 +513,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 2.02,
       "ret_5d": null,
       "ret_20d": null,
@@ -488,7 +522,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "market": "us",
       "state": 1,
       "code": "TRI",
@@ -496,42 +530,8 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 2.1,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-08",
-      "market": "us",
-      "state": 1,
-      "code": "SWKS",
-      "name": "Skyworks Solutions",
-      "primary_case": "B",
-      "tags": "FAIL_STRONG",
-      "primary_tf": "D",
-      "age": 0,
-      "breakout_pct": 1.04,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-08",
-      "market": "us",
-      "state": 1,
-      "code": "STRK",
-      "name": "Strategy 8 00 Perpetual Strike Prf Shs Series A",
-      "primary_case": "B",
-      "tags": "FAIL_WEAK",
-      "primary_tf": "D",
-      "age": 1,
-      "breakout_pct": 3.19,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
