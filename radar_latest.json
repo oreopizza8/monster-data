@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "kr": [
     {
       "code": "005930",
@@ -7,7 +7,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 4.96,
       "event_date": "2026-09-21",
       "consolidation_len": 6
@@ -18,10 +18,21 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 0.96,
       "event_date": "2026-09-21",
       "consolidation_len": 5
+    },
+    {
+      "code": "066570",
+      "name": "LG전자",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 5.13,
+      "event_date": "2026-09-22",
+      "consolidation_len": 7
     },
     {
       "code": "010120",
@@ -29,21 +40,65 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 0.97,
       "event_date": "2026-09-18",
       "consolidation_len": 5
     },
     {
-      "code": "004020",
-      "name": "현대제철",
+      "code": "000720",
+      "name": "현대건설",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 4,
-      "breakout_pct": 4.1,
-      "event_date": "2026-09-15",
+      "age": 0,
+      "breakout_pct": 1.93,
+      "event_date": "2026-09-22",
       "consolidation_len": 5
+    },
+    {
+      "code": "003490",
+      "name": "대한항공",
+      "primary_case": "B",
+      "primary_tf": "D",
+      "tags": "FAIL_STRONG",
+      "age": 0,
+      "breakout_pct": 2.43,
+      "event_date": "2026-09-22",
+      "consolidation_len": 5
+    },
+    {
+      "code": "307950",
+      "name": "현대오토에버",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 0.78,
+      "event_date": "2026-09-22",
+      "consolidation_len": 6
+    },
+    {
+      "code": "016360",
+      "name": "삼성증권",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 1.57,
+      "event_date": "2026-09-22",
+      "consolidation_len": 17
+    },
+    {
+      "code": "036570",
+      "name": "NC",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 4.93,
+      "event_date": "2026-09-22",
+      "consolidation_len": 9
     },
     {
       "code": "103590",
@@ -51,7 +106,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 5.56,
       "event_date": "2026-09-18",
       "consolidation_len": 6
@@ -62,7 +117,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.93,
       "event_date": "2026-09-21",
       "consolidation_len": 6
@@ -73,7 +128,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 0.54,
       "event_date": "2026-09-18",
       "consolidation_len": 7
@@ -84,9 +139,31 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.05,
       "event_date": "2026-09-18",
+      "consolidation_len": 5
+    },
+    {
+      "code": "020560",
+      "name": "아시아나항공",
+      "primary_case": "B",
+      "primary_tf": "D",
+      "tags": "FAIL_STRONG",
+      "age": 0,
+      "breakout_pct": 1.34,
+      "event_date": "2026-09-22",
+      "consolidation_len": 5
+    },
+    {
+      "code": "323280",
+      "name": "태성",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 0.54,
+      "event_date": "2026-09-22",
       "consolidation_len": 5
     },
     {
@@ -95,7 +172,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 4.21,
       "event_date": "2026-09-17",
       "consolidation_len": 6
@@ -106,32 +183,10 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 3.34,
       "event_date": "2026-09-18",
       "consolidation_len": 5
-    },
-    {
-      "code": "056190",
-      "name": "SFA",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 4,
-      "breakout_pct": 12.94,
-      "event_date": "2026-09-15",
-      "consolidation_len": 5
-    },
-    {
-      "code": "417200",
-      "name": "LS머트리얼즈",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 4,
-      "breakout_pct": 7.08,
-      "event_date": "2026-09-15",
-      "consolidation_len": 6
     },
     {
       "code": "071320",
@@ -139,20 +194,9 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_WEAK",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.56,
       "event_date": "2026-09-21",
-      "consolidation_len": 9
-    },
-    {
-      "code": "031330",
-      "name": "에스에이엠티",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 2,
-      "breakout_pct": 1.59,
-      "event_date": "2026-09-17",
       "consolidation_len": 9
     },
     {
@@ -161,9 +205,31 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 1.22,
       "event_date": "2026-09-16",
+      "consolidation_len": 7
+    },
+    {
+      "code": "031330",
+      "name": "에스에이엠티",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 3,
+      "breakout_pct": 1.59,
+      "event_date": "2026-09-17",
+      "consolidation_len": 9
+    },
+    {
+      "code": "053800",
+      "name": "안랩",
+      "primary_case": "B",
+      "primary_tf": "D",
+      "tags": "FAIL_STRONG",
+      "age": 0,
+      "breakout_pct": 2.87,
+      "event_date": "2026-09-22",
       "consolidation_len": 7
     },
     {
@@ -172,7 +238,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 2.13,
       "event_date": "2026-09-18",
       "consolidation_len": 6
@@ -183,7 +249,7 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 0.96,
       "event_date": "2026-09-16",
       "consolidation_len": 5
@@ -194,21 +260,10 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 5.31,
       "event_date": "2026-09-17",
       "consolidation_len": 5
-    },
-    {
-      "code": "094800",
-      "name": "맵스리얼티",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 4,
-      "breakout_pct": 1.89,
-      "event_date": "2026-09-15",
-      "consolidation_len": 15
     },
     {
       "code": "006730",
@@ -216,7 +271,7 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 1.04,
       "event_date": "2026-09-16",
       "consolidation_len": 5
@@ -227,21 +282,10 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 0.9,
       "event_date": "2026-09-17",
       "consolidation_len": 9
-    },
-    {
-      "code": "453340",
-      "name": "현대그린푸드",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 4,
-      "breakout_pct": 1.1,
-      "event_date": "2026-09-15",
-      "consolidation_len": 24
     },
     {
       "code": "046890",
@@ -249,7 +293,7 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_WEAK",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 2.48,
       "event_date": "2026-09-21",
       "consolidation_len": 9
@@ -260,20 +304,42 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.14,
       "event_date": "2026-09-21",
       "consolidation_len": 6
     },
     {
-      "code": "009900",
-      "name": "명신산업",
+      "code": "486990",
+      "name": "노타",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 4.45,
-      "event_date": "2026-09-21",
+      "breakout_pct": 27.69,
+      "event_date": "2026-09-22",
+      "consolidation_len": 6
+    },
+    {
+      "code": "003030",
+      "name": "세아제강지주",
+      "primary_case": "B",
+      "primary_tf": "D",
+      "tags": "FAIL_STRONG",
+      "age": 2,
+      "breakout_pct": 0.92,
+      "event_date": "2026-09-18",
+      "consolidation_len": 9
+    },
+    {
+      "code": "013030",
+      "name": "하이록코리아",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 2,
+      "breakout_pct": 2.09,
+      "event_date": "2026-09-18",
       "consolidation_len": 5
     },
     {
@@ -288,25 +354,14 @@
       "consolidation_len": 4
     },
     {
-      "code": "003030",
-      "name": "세아제강지주",
-      "primary_case": "B",
-      "primary_tf": "D",
-      "tags": "FAIL_STRONG",
-      "age": 1,
-      "breakout_pct": 0.92,
-      "event_date": "2026-09-18",
-      "consolidation_len": 9
-    },
-    {
-      "code": "013030",
-      "name": "하이록코리아",
+      "code": "009900",
+      "name": "명신산업",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
       "age": 1,
-      "breakout_pct": 2.09,
-      "event_date": "2026-09-18",
+      "breakout_pct": 4.45,
+      "event_date": "2026-09-21",
       "consolidation_len": 5
     },
     {
@@ -315,7 +370,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.31,
       "event_date": "2026-09-21",
       "consolidation_len": 5
@@ -326,7 +381,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 3.37,
       "event_date": "2026-09-16",
       "consolidation_len": 5
@@ -337,7 +392,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 0.84,
       "event_date": "2026-09-21",
       "consolidation_len": 12
@@ -348,7 +403,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.17,
       "event_date": "2026-09-21",
       "consolidation_len": 6
@@ -359,9 +414,20 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 2.78,
       "event_date": "2026-09-18",
+      "consolidation_len": 5
+    },
+    {
+      "code": "000430",
+      "name": "대원강업",
+      "primary_case": "B",
+      "primary_tf": "D",
+      "tags": "FAIL_STRONG",
+      "age": 1,
+      "breakout_pct": 1.81,
+      "event_date": "2026-09-21",
       "consolidation_len": 5
     },
     {
@@ -370,21 +436,10 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 2.06,
       "event_date": "2026-09-17",
       "consolidation_len": 6
-    },
-    {
-      "code": "000430",
-      "name": "대원강업",
-      "primary_case": "B",
-      "primary_tf": "D",
-      "tags": "FAIL_STRONG",
-      "age": 0,
-      "breakout_pct": 1.81,
-      "event_date": "2026-09-21",
-      "consolidation_len": 5
     },
     {
       "code": "228760",
@@ -392,7 +447,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 9.74,
       "event_date": "2026-09-18",
       "consolidation_len": 7
@@ -403,21 +458,10 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 2.87,
       "event_date": "2026-09-18",
       "consolidation_len": 6
-    },
-    {
-      "code": "094360",
-      "name": "칩스앤미디어",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 1,
-      "breakout_pct": 1.12,
-      "event_date": "2026-09-18",
-      "consolidation_len": 5
     },
     {
       "code": "068930",
@@ -425,9 +469,20 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_WEAK",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 5.47,
       "event_date": "2026-09-21",
+      "consolidation_len": 5
+    },
+    {
+      "code": "094360",
+      "name": "칩스앤미디어",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 2,
+      "breakout_pct": 1.12,
+      "event_date": "2026-09-18",
       "consolidation_len": 5
     },
     {
@@ -436,7 +491,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.63,
       "event_date": "2026-09-17",
       "consolidation_len": 23
@@ -447,10 +502,21 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 0.91,
       "event_date": "2026-09-18",
       "consolidation_len": 5
+    },
+    {
+      "code": "044450",
+      "name": "KSS해운",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 9.07,
+      "event_date": "2026-09-22",
+      "consolidation_len": 12
     },
     {
       "code": "190510",
@@ -458,7 +524,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 3.21,
       "event_date": "2026-09-16",
       "consolidation_len": 5
@@ -469,21 +535,10 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 0.94,
       "event_date": "2026-09-16",
       "consolidation_len": 8
-    },
-    {
-      "code": "028100",
-      "name": "동아지질",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 4,
-      "breakout_pct": 4.05,
-      "event_date": "2026-09-15",
-      "consolidation_len": 15
     },
     {
       "code": "013580",
@@ -491,9 +546,31 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 0.86,
       "event_date": "2026-09-18",
+      "consolidation_len": 5
+    },
+    {
+      "code": "388050",
+      "name": "지투파워",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 0.74,
+      "event_date": "2026-09-22",
+      "consolidation_len": 5
+    },
+    {
+      "code": "005160",
+      "name": "동국산업",
+      "primary_case": "B",
+      "primary_tf": "D",
+      "tags": "FAIL_STRONG",
+      "age": 4,
+      "breakout_pct": 2.73,
+      "event_date": "2026-09-16",
       "consolidation_len": 5
     },
     {
@@ -502,7 +579,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.47,
       "event_date": "2026-09-17",
       "consolidation_len": 6
@@ -513,7 +590,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 3.03,
       "event_date": "2026-09-18",
       "consolidation_len": 8
@@ -530,34 +607,12 @@
       "consolidation_len": 4
     },
     {
-      "code": "039830",
-      "name": "오로라",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 2,
-      "breakout_pct": 2.11,
-      "event_date": "2026-09-17",
-      "consolidation_len": 5
-    },
-    {
-      "code": "005160",
-      "name": "동국산업",
-      "primary_case": "B",
-      "primary_tf": "D",
-      "tags": "FAIL_STRONG",
-      "age": 3,
-      "breakout_pct": 2.73,
-      "event_date": "2026-09-16",
-      "consolidation_len": 5
-    },
-    {
       "code": "000700",
       "name": "유수홀딩스",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 0.6,
       "event_date": "2026-09-17",
       "consolidation_len": 8
@@ -568,9 +623,42 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 12.06,
       "event_date": "2026-09-17",
+      "consolidation_len": 5
+    },
+    {
+      "code": "039830",
+      "name": "오로라",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 3,
+      "breakout_pct": 2.11,
+      "event_date": "2026-09-17",
+      "consolidation_len": 5
+    },
+    {
+      "code": "012860",
+      "name": "모베이스전자",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 2,
+      "breakout_pct": 2.77,
+      "event_date": "2026-09-18",
+      "consolidation_len": 9
+    },
+    {
+      "code": "051370",
+      "name": "인터플렉스",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 12.19,
+      "event_date": "2026-09-22",
       "consolidation_len": 5
     },
     {
@@ -579,7 +667,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 0.69,
       "event_date": "2026-09-17",
       "consolidation_len": 9
@@ -590,21 +678,10 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.1,
       "event_date": "2026-09-17",
       "consolidation_len": 5
-    },
-    {
-      "code": "012860",
-      "name": "모베이스전자",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 1,
-      "breakout_pct": 2.77,
-      "event_date": "2026-09-18",
-      "consolidation_len": 9
     },
     {
       "code": "002170",
@@ -612,7 +689,7 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.55,
       "event_date": "2026-09-17",
       "consolidation_len": 6
@@ -623,7 +700,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.5,
       "event_date": "2026-09-18",
       "consolidation_len": 17
@@ -634,32 +711,21 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 0.92,
       "event_date": "2026-09-17",
       "consolidation_len": 5
     },
     {
-      "code": "086890",
-      "name": "이수앱지스",
+      "code": "067280",
+      "name": "멀티캠퍼스",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 4,
-      "breakout_pct": 0.56,
-      "event_date": "2026-09-15",
-      "consolidation_len": 7
-    },
-    {
-      "code": "115310",
-      "name": "인포바인",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 4,
-      "breakout_pct": 1.36,
-      "event_date": "2026-09-15",
-      "consolidation_len": 7
+      "age": 0,
+      "breakout_pct": 5.42,
+      "event_date": "2026-09-22",
+      "consolidation_len": 22
     },
     {
       "code": "147830",
@@ -667,7 +733,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.27,
       "event_date": "2026-09-18",
       "consolidation_len": 6
@@ -678,7 +744,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 4.3,
       "event_date": "2026-09-18",
       "consolidation_len": 60
@@ -689,21 +755,10 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 2.05,
       "event_date": "2026-09-18",
       "consolidation_len": 5
-    },
-    {
-      "code": "240550",
-      "name": "동방메디컬",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 1,
-      "breakout_pct": 2.08,
-      "event_date": "2026-09-18",
-      "consolidation_len": 6
     },
     {
       "code": "012610",
@@ -711,32 +766,21 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.25,
       "event_date": "2026-09-18",
       "consolidation_len": 9
     },
     {
-      "code": "001520",
-      "name": "동양",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 1,
-      "breakout_pct": 22.78,
-      "event_date": "2026-09-18",
-      "consolidation_len": 13
-    },
-    {
-      "code": "037070",
-      "name": "파세코",
+      "code": "240550",
+      "name": "동방메디컬",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
       "age": 2,
-      "breakout_pct": 2.72,
-      "event_date": "2026-09-17",
-      "consolidation_len": 8
+      "breakout_pct": 2.08,
+      "event_date": "2026-09-18",
+      "consolidation_len": 6
     },
     {
       "code": "142210",
@@ -744,10 +788,32 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 0.66,
       "event_date": "2026-09-18",
       "consolidation_len": 7
+    },
+    {
+      "code": "037070",
+      "name": "파세코",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 3,
+      "breakout_pct": 2.72,
+      "event_date": "2026-09-17",
+      "consolidation_len": 8
+    },
+    {
+      "code": "001520",
+      "name": "동양",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 2,
+      "breakout_pct": 22.78,
+      "event_date": "2026-09-18",
+      "consolidation_len": 13
     },
     {
       "code": "017510",
@@ -755,7 +821,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.83,
       "event_date": "2026-09-17",
       "consolidation_len": 5
@@ -766,7 +832,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 0.67,
       "event_date": "2026-09-21",
       "consolidation_len": 8
@@ -777,10 +843,21 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 0.65,
       "event_date": "2026-09-16",
       "consolidation_len": 5
+    },
+    {
+      "code": "039560",
+      "name": "다산네트웍스",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 4,
+      "breakout_pct": 5.92,
+      "event_date": "2026-09-16",
+      "consolidation_len": 12
     },
     {
       "code": "040300",
@@ -794,37 +871,15 @@
       "consolidation_len": 5
     },
     {
-      "code": "039560",
-      "name": "다산네트웍스",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 3,
-      "breakout_pct": 5.92,
-      "event_date": "2026-09-16",
-      "consolidation_len": 12
-    },
-    {
       "code": "130580",
       "name": "나이스디앤비",
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_WEAK",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 1.38,
       "event_date": "2026-09-16",
       "consolidation_len": 11
-    },
-    {
-      "code": "289930",
-      "name": "웨이비스",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 4,
-      "breakout_pct": 4.02,
-      "event_date": "2026-09-15",
-      "consolidation_len": 6
     },
     {
       "code": "083500",
@@ -832,20 +887,20 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 0.53,
       "event_date": "2026-09-18",
       "consolidation_len": 6
     },
     {
-      "code": "066590",
-      "name": "스모트로닉",
-      "primary_case": "A",
+      "code": "303810",
+      "name": "동국생명과학",
+      "primary_case": "B",
       "primary_tf": "D",
-      "tags": "",
-      "age": 4,
-      "breakout_pct": 0.62,
-      "event_date": "2026-09-15",
+      "tags": "FAIL_WEAK",
+      "age": 1,
+      "breakout_pct": 1.71,
+      "event_date": "2026-09-21",
       "consolidation_len": 5
     },
     {
@@ -854,31 +909,20 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 1.06,
       "event_date": "2026-09-16",
       "consolidation_len": 7
     },
     {
-      "code": "037760",
-      "name": "쎄니트",
+      "code": "389140",
+      "name": "포바이포",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 4,
-      "breakout_pct": 1.88,
-      "event_date": "2026-09-15",
-      "consolidation_len": 10
-    },
-    {
-      "code": "047820",
-      "name": "초록뱀미디어",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 4,
-      "breakout_pct": 0.61,
-      "event_date": "2026-09-15",
+      "age": 0,
+      "breakout_pct": 0.55,
+      "event_date": "2026-09-22",
       "consolidation_len": 6
     },
     {
@@ -887,21 +931,21 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.23,
       "event_date": "2026-09-21",
       "consolidation_len": 9
     },
     {
-      "code": "303810",
-      "name": "동국생명과학",
-      "primary_case": "B",
+      "code": "085670",
+      "name": "뉴프렉스",
+      "primary_case": "A",
       "primary_tf": "D",
-      "tags": "FAIL_WEAK",
+      "tags": "",
       "age": 0,
-      "breakout_pct": 1.28,
-      "event_date": "2026-09-21",
-      "consolidation_len": 5
+      "breakout_pct": 2.61,
+      "event_date": "2026-09-22",
+      "consolidation_len": 12
     },
     {
       "code": "009770",
@@ -909,7 +953,7 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 4.0,
       "event_date": "2026-09-21",
       "consolidation_len": 9
@@ -920,7 +964,7 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 1.37,
       "event_date": "2026-09-16",
       "consolidation_len": 11
@@ -942,10 +986,32 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 2.18,
       "event_date": "2026-09-21",
       "consolidation_len": 5
+    },
+    {
+      "code": "126880",
+      "name": "제이엔케이글로벌",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 1.92,
+      "event_date": "2026-09-22",
+      "consolidation_len": 18
+    },
+    {
+      "code": "214270",
+      "name": "FSN",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 0.59,
+      "event_date": "2026-09-22",
+      "consolidation_len": 8
     },
     {
       "code": "066670",
@@ -953,21 +1019,10 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.07,
       "event_date": "2026-09-17",
       "consolidation_len": 8
-    },
-    {
-      "code": "372910",
-      "name": "한컴라이프케어",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 4,
-      "breakout_pct": 7.31,
-      "event_date": "2026-09-15",
-      "consolidation_len": 14
     },
     {
       "code": "003780",
@@ -975,7 +1030,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 7.27,
       "event_date": "2026-09-17",
       "consolidation_len": 5
@@ -986,31 +1041,9 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 0.94,
       "event_date": "2026-09-17",
-      "consolidation_len": 6
-    },
-    {
-      "code": "092440",
-      "name": "기신정기",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 4,
-      "breakout_pct": 0.6,
-      "event_date": "2026-09-15",
-      "consolidation_len": 5
-    },
-    {
-      "code": "163280",
-      "name": "에어레인",
-      "primary_case": "B",
-      "primary_tf": "D",
-      "tags": "FAIL_STRONG",
-      "age": 4,
-      "breakout_pct": 4.79,
-      "event_date": "2026-09-15",
       "consolidation_len": 6
     },
     {
@@ -1019,9 +1052,20 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 5.68,
       "event_date": "2026-09-17",
+      "consolidation_len": 5
+    },
+    {
+      "code": "038010",
+      "name": "제일테크노스",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 2.84,
+      "event_date": "2026-09-22",
       "consolidation_len": 5
     },
     {
@@ -1030,7 +1074,7 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 8.75,
       "event_date": "2026-09-18",
       "consolidation_len": 5
@@ -1041,10 +1085,21 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 0.75,
       "event_date": "2026-09-18",
       "consolidation_len": 5
+    },
+    {
+      "code": "051390",
+      "name": "YW",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 3,
+      "breakout_pct": 2.17,
+      "event_date": "2026-09-17",
+      "consolidation_len": 6
     },
     {
       "code": "072990",
@@ -1052,7 +1107,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.45,
       "event_date": "2026-09-17",
       "consolidation_len": 7
@@ -1063,32 +1118,10 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 7.34,
       "event_date": "2026-09-17",
       "consolidation_len": 7
-    },
-    {
-      "code": "051390",
-      "name": "YW",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 2,
-      "breakout_pct": 2.17,
-      "event_date": "2026-09-17",
-      "consolidation_len": 6
-    },
-    {
-      "code": "277070",
-      "name": "린드먼아시아",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 4,
-      "breakout_pct": 5.77,
-      "event_date": "2026-09-15",
-      "consolidation_len": 6
     },
     {
       "code": "373160",
@@ -1096,7 +1129,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.12,
       "event_date": "2026-09-17",
       "consolidation_len": 9
@@ -1118,7 +1151,7 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 8.65,
       "event_date": "2026-09-17",
       "consolidation_len": 5
@@ -1129,7 +1162,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 2.97,
       "event_date": "2026-09-18",
       "consolidation_len": 46
@@ -1140,21 +1173,10 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.85,
       "event_date": "2026-09-21",
       "consolidation_len": 5
-    },
-    {
-      "code": "417860",
-      "name": "오브젠",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 4,
-      "breakout_pct": 5.39,
-      "event_date": "2026-09-15",
-      "consolidation_len": 6
     },
     {
       "code": "005820",
@@ -1162,21 +1184,10 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 8.62,
       "event_date": "2026-09-18",
       "consolidation_len": 5
-    },
-    {
-      "code": "335810",
-      "name": "프리시젼바이오",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 1,
-      "breakout_pct": 9.92,
-      "event_date": "2026-09-18",
-      "consolidation_len": 7
     },
     {
       "code": "080520",
@@ -1184,10 +1195,21 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.92,
       "event_date": "2026-09-17",
       "consolidation_len": 14
+    },
+    {
+      "code": "335810",
+      "name": "프리시젼바이오",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 2,
+      "breakout_pct": 9.92,
+      "event_date": "2026-09-18",
+      "consolidation_len": 7
     },
     {
       "code": "368970",
@@ -1195,7 +1217,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 3.65,
       "event_date": "2026-09-17",
       "consolidation_len": 6
@@ -1206,21 +1228,10 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.86,
       "event_date": "2026-09-18",
       "consolidation_len": 9
-    },
-    {
-      "code": "123750",
-      "name": "알톤",
-      "primary_case": "B",
-      "primary_tf": "D",
-      "tags": "FAIL_STRONG",
-      "age": 3,
-      "breakout_pct": 1.0,
-      "event_date": "2026-09-16",
-      "consolidation_len": 7
     },
     {
       "code": "134060",
@@ -1228,7 +1239,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 0.54,
       "event_date": "2026-09-21",
       "consolidation_len": 5
@@ -1239,8 +1250,41 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.18,
+      "event_date": "2026-09-21",
+      "consolidation_len": 5
+    },
+    {
+      "code": "123750",
+      "name": "알톤",
+      "primary_case": "B",
+      "primary_tf": "D",
+      "tags": "FAIL_STRONG",
+      "age": 4,
+      "breakout_pct": 1.0,
+      "event_date": "2026-09-16",
+      "consolidation_len": 7
+    },
+    {
+      "code": "298060",
+      "name": "풍전약품",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 6.26,
+      "event_date": "2026-09-22",
+      "consolidation_len": 7
+    },
+    {
+      "code": "043590",
+      "name": "웰킵스하이텍",
+      "primary_case": "B",
+      "primary_tf": "D",
+      "tags": "FAIL_WEAK",
+      "age": 1,
+      "breakout_pct": 2.06,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -1250,20 +1294,9 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 2.44,
       "event_date": "2026-09-16",
-      "consolidation_len": 5
-    },
-    {
-      "code": "054220",
-      "name": "비츠로시스",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 2,
-      "breakout_pct": 4.32,
-      "event_date": "2026-09-17",
       "consolidation_len": 5
     },
     {
@@ -1283,31 +1316,20 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 1.78,
       "event_date": "2026-09-16",
       "consolidation_len": 7
     },
     {
-      "code": "429270",
-      "name": "시지트로닉스",
+      "code": "054220",
+      "name": "비츠로시스",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 4,
-      "breakout_pct": 3.61,
-      "event_date": "2026-09-15",
-      "consolidation_len": 5
-    },
-    {
-      "code": "043590",
-      "name": "웰킵스하이텍",
-      "primary_case": "B",
-      "primary_tf": "D",
-      "tags": "FAIL_WEAK",
-      "age": 0,
-      "breakout_pct": 2.06,
-      "event_date": "2026-09-21",
+      "age": 3,
+      "breakout_pct": 4.32,
+      "event_date": "2026-09-17",
       "consolidation_len": 5
     },
     {
@@ -1316,7 +1338,7 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 4.26,
       "event_date": "2026-09-18",
       "consolidation_len": 6
@@ -1327,7 +1349,7 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 4.98,
       "event_date": "2026-09-21",
       "consolidation_len": 15
@@ -1338,7 +1360,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 2.12,
       "event_date": "2026-09-16",
       "consolidation_len": 5
@@ -1349,7 +1371,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 14.99,
       "event_date": "2026-09-18",
       "consolidation_len": 15
@@ -1368,15 +1390,37 @@
       "consolidation_len": 6
     },
     {
+      "code": "AAL",
+      "name": "American Airlines Group Inc.",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 1.34,
+      "event_date": "2026-09-21",
+      "consolidation_len": 13
+    },
+    {
       "code": "ACLS",
       "name": "Axcelis Technologies  Inc.",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 3.04,
+      "breakout_pct": 3.42,
       "event_date": "2026-09-21",
       "consolidation_len": 5
+    },
+    {
+      "code": "ADI",
+      "name": "Analog Devices",
+      "primary_case": "B",
+      "primary_tf": "D",
+      "tags": "FAIL_STRONG",
+      "age": 0,
+      "breakout_pct": 0.69,
+      "event_date": "2026-09-21",
+      "consolidation_len": 9
     },
     {
       "code": "ADPT",
@@ -1396,7 +1440,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 3.63,
+      "breakout_pct": 6.88,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -1412,24 +1456,13 @@
       "consolidation_len": 6
     },
     {
-      "code": "AMPH",
-      "name": "Amphastar Pharmaceuticals  Inc.",
-      "primary_case": "B",
-      "primary_tf": "D",
-      "tags": "FAIL_WEAK",
-      "age": 0,
-      "breakout_pct": 1.68,
-      "event_date": "2026-09-21",
-      "consolidation_len": 5
-    },
-    {
       "code": "AMRX",
       "name": "Amneal Pharmaceuticals  Inc",
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
       "age": 0,
-      "breakout_pct": 5.82,
+      "breakout_pct": 4.67,
       "event_date": "2026-09-21",
       "consolidation_len": 8
     },
@@ -1462,7 +1495,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 0.87,
+      "breakout_pct": 1.77,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -1486,6 +1519,17 @@
       "age": 2,
       "breakout_pct": 2.84,
       "event_date": "2026-09-17",
+      "consolidation_len": 5
+    },
+    {
+      "code": "BLK",
+      "name": "BlackRock",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 0.95,
+      "event_date": "2026-09-21",
       "consolidation_len": 5
     },
     {
@@ -1528,7 +1572,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 1.24,
+      "breakout_pct": 2.11,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -1539,7 +1583,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 0.6,
+      "breakout_pct": 2.29,
       "event_date": "2026-09-21",
       "consolidation_len": 6
     },
@@ -1599,13 +1643,24 @@
       "consolidation_len": 5
     },
     {
+      "code": "CYRX",
+      "name": "Cryoport  Inc.",
+      "primary_case": "B",
+      "primary_tf": "D",
+      "tags": "FAIL_STRONG",
+      "age": 0,
+      "breakout_pct": 2.44,
+      "event_date": "2026-09-21",
+      "consolidation_len": 7
+    },
+    {
       "code": "DAL",
       "name": "Delta Air Lines",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 0.5,
+      "breakout_pct": 2.61,
       "event_date": "2026-09-21",
       "consolidation_len": 14
     },
@@ -1638,7 +1693,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 1.49,
+      "breakout_pct": 0.88,
       "event_date": "2026-09-21",
       "consolidation_len": 7
     },
@@ -1649,7 +1704,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 0.5,
+      "breakout_pct": 0.71,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -1737,7 +1792,18 @@
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
       "age": 0,
-      "breakout_pct": 0.54,
+      "breakout_pct": 1.2,
+      "event_date": "2026-09-21",
+      "consolidation_len": 5
+    },
+    {
+      "code": "FCX",
+      "name": "Freeport-McMoRan",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 0.78,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -1748,7 +1814,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 2.63,
+      "breakout_pct": 3.96,
       "event_date": "2026-09-21",
       "consolidation_len": 10
     },
@@ -1781,7 +1847,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 0.93,
+      "breakout_pct": 2.82,
       "event_date": "2026-09-21",
       "consolidation_len": 6
     },
@@ -1808,17 +1874,6 @@
       "consolidation_len": 5
     },
     {
-      "code": "GYRE",
-      "name": "Gyre Therapeutics  Inc.",
-      "primary_case": "B",
-      "primary_tf": "D",
-      "tags": "FAIL_STRONG",
-      "age": 1,
-      "breakout_pct": 3.85,
-      "event_date": "2026-09-18",
-      "consolidation_len": 6
-    },
-    {
       "code": "HALO",
       "name": "Halozyme Therapeutics  Inc.",
       "primary_case": "B",
@@ -1832,13 +1887,13 @@
     {
       "code": "HCM",
       "name": "HUTCHMED (China) Ltd ADR",
-      "primary_case": "A",
+      "primary_case": "B",
       "primary_tf": "D",
-      "tags": "",
+      "tags": "FAIL_STRONG",
       "age": 0,
-      "breakout_pct": 3.38,
+      "breakout_pct": 1.08,
       "event_date": "2026-09-21",
-      "consolidation_len": 5
+      "consolidation_len": 6
     },
     {
       "code": "IBKR",
@@ -1847,7 +1902,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 1.92,
+      "breakout_pct": 2.36,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -1896,14 +1951,25 @@
       "consolidation_len": 5
     },
     {
+      "code": "IRM",
+      "name": "Iron Mountain",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 0.75,
+      "event_date": "2026-09-21",
+      "consolidation_len": 8
+    },
+    {
       "code": "ISRG",
       "name": "Intuitive Surgical",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
-      "breakout_pct": 1.32,
-      "event_date": "2026-09-18",
+      "age": 0,
+      "breakout_pct": 1.71,
+      "event_date": "2026-09-21",
       "consolidation_len": 5
     },
     {
@@ -1913,7 +1979,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 0.88,
+      "breakout_pct": 1.44,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -1929,13 +1995,24 @@
       "consolidation_len": 13
     },
     {
+      "code": "KEYS",
+      "name": "Keysight Technologies",
+      "primary_case": "B",
+      "primary_tf": "D",
+      "tags": "FAIL_STRONG",
+      "age": 0,
+      "breakout_pct": 0.84,
+      "event_date": "2026-09-21",
+      "consolidation_len": 9
+    },
+    {
       "code": "KLAC",
       "name": "KLA Corporation",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 2.86,
+      "breakout_pct": 3.86,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -1951,13 +2028,13 @@
       "consolidation_len": 5
     },
     {
-      "code": "LASR",
-      "name": "nLIGHT  Inc.",
+      "code": "LGND",
+      "name": "Ligand Pharmaceuticals Incorporated",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 1.13,
+      "breakout_pct": 1.02,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -1971,6 +2048,17 @@
       "breakout_pct": 2.88,
       "event_date": "2026-09-17",
       "consolidation_len": 7
+    },
+    {
+      "code": "LOGI",
+      "name": "Logitech international S.A.",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 2.28,
+      "event_date": "2026-09-21",
+      "consolidation_len": 11
     },
     {
       "code": "LUV",
@@ -1990,7 +2078,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 0.91,
+      "breakout_pct": 1.88,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -2001,7 +2089,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 0.84,
+      "breakout_pct": 1.96,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -2023,7 +2111,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 3.07,
+      "breakout_pct": 7.49,
       "event_date": "2026-09-21",
       "consolidation_len": 6
     },
@@ -2044,7 +2132,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 1.23,
       "event_date": "2026-09-18",
       "consolidation_len": 5
@@ -2072,6 +2160,17 @@
       "consolidation_len": 6
     },
     {
+      "code": "NDAQ",
+      "name": "Nasdaq, Inc.",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 0.58,
+      "event_date": "2026-09-21",
+      "consolidation_len": 7
+    },
+    {
       "code": "NEO",
       "name": "NeoGenomics  Inc.",
       "primary_case": "B",
@@ -2092,6 +2191,17 @@
       "breakout_pct": 1.46,
       "event_date": "2026-09-16",
       "consolidation_len": 6
+    },
+    {
+      "code": "NICE",
+      "name": "NICE Ltd. ADR",
+      "primary_case": "B",
+      "primary_tf": "D",
+      "tags": "FAIL_STRONG",
+      "age": 0,
+      "breakout_pct": 3.05,
+      "event_date": "2026-09-21",
+      "consolidation_len": 8
     },
     {
       "code": "NTCT",
@@ -2116,13 +2226,24 @@
       "consolidation_len": 7
     },
     {
+      "code": "NTSK",
+      "name": "Netskope  Inc.",
+      "primary_case": "B",
+      "primary_tf": "D",
+      "tags": "FAIL_STRONG",
+      "age": 0,
+      "breakout_pct": 2.79,
+      "event_date": "2026-09-21",
+      "consolidation_len": 5
+    },
+    {
       "code": "NVDA",
       "name": "Nvidia",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 1.03,
+      "breakout_pct": 2.09,
       "event_date": "2026-09-21",
       "consolidation_len": 7
     },
@@ -2133,7 +2254,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 1.98,
+      "breakout_pct": 1.74,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -2144,7 +2265,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 2.18,
+      "breakout_pct": 2.72,
       "event_date": "2026-09-21",
       "consolidation_len": 9
     },
@@ -2171,17 +2292,6 @@
       "consolidation_len": 5
     },
     {
-      "code": "PKG",
-      "name": "Packaging Corporation of America",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 0,
-      "breakout_pct": 0.98,
-      "event_date": "2026-09-21",
-      "consolidation_len": 14
-    },
-    {
       "code": "PLMR",
       "name": "Palomar Holdings  Inc.",
       "primary_case": "A",
@@ -2199,7 +2309,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 2.2,
+      "breakout_pct": 2.93,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -2210,7 +2320,7 @@
       "primary_tf": "D",
       "tags": "",
       "age": 0,
-      "breakout_pct": 1.31,
+      "breakout_pct": 1.41,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -2235,17 +2345,6 @@
       "breakout_pct": 0.88,
       "event_date": "2026-09-17",
       "consolidation_len": 5
-    },
-    {
-      "code": "PRAA",
-      "name": "PRA Group Inc",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 3,
-      "breakout_pct": 2.71,
-      "event_date": "2026-09-16",
-      "consolidation_len": 11
     },
     {
       "code": "PSQL",
@@ -2281,6 +2380,17 @@
       "consolidation_len": 8
     },
     {
+      "code": "PWR",
+      "name": "Quanta Services",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 0.73,
+      "event_date": "2026-09-21",
+      "consolidation_len": 5
+    },
+    {
       "code": "QCOM",
       "name": "Qualcomm",
       "primary_case": "B",
@@ -2290,6 +2400,17 @@
       "breakout_pct": 1.26,
       "event_date": "2026-09-15",
       "consolidation_len": 14
+    },
+    {
+      "code": "QQQX",
+      "name": "Nuveen Nasdaq 100 Dynamic Overwrite Fund",
+      "primary_case": "B",
+      "primary_tf": "W",
+      "tags": "FAIL_WEAK",
+      "age": 0,
+      "breakout_pct": 1.05,
+      "event_date": "2026-09-25",
+      "consolidation_len": 5
     },
     {
       "code": "QUBT",
@@ -2303,26 +2424,15 @@
       "consolidation_len": 5
     },
     {
-      "code": "RVTY",
-      "name": "Revvity",
-      "primary_case": "B",
-      "primary_tf": "D",
-      "tags": "FAIL_STRONG",
-      "age": 4,
-      "breakout_pct": 5.41,
-      "event_date": "2026-09-15",
-      "consolidation_len": 8
-    },
-    {
-      "code": "SAIC",
-      "name": "Science Applications International Corp",
+      "code": "RYAAY",
+      "name": "Ryanair Holdings PLC ADR",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 4,
-      "breakout_pct": 1.08,
-      "event_date": "2026-09-15",
-      "consolidation_len": 7
+      "age": 0,
+      "breakout_pct": 2.75,
+      "event_date": "2026-09-22",
+      "consolidation_len": 10
     },
     {
       "code": "SBET",
@@ -2330,8 +2440,8 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 0,
-      "breakout_pct": 2.69,
+      "age": 1,
+      "breakout_pct": 5.16,
       "event_date": "2026-09-21",
       "consolidation_len": 5
     },
@@ -2341,7 +2451,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.03,
       "event_date": "2026-09-18",
       "consolidation_len": 8
@@ -2352,10 +2462,54 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 0.62,
       "event_date": "2026-09-16",
       "consolidation_len": 11
+    },
+    {
+      "code": "SHOO",
+      "name": "Steven Madden  Ltd.",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 1.6,
+      "event_date": "2026-09-22",
+      "consolidation_len": 8
+    },
+    {
+      "code": "SHOP",
+      "name": "Shopify Inc.",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 1,
+      "breakout_pct": 2.36,
+      "event_date": "2026-09-21",
+      "consolidation_len": 6
+    },
+    {
+      "code": "SKYW",
+      "name": "SkyWest  Inc.",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 2.47,
+      "event_date": "2026-09-22",
+      "consolidation_len": 8
+    },
+    {
+      "code": "SOFI",
+      "name": "SoFi Technologies  Inc.",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 1.36,
+      "event_date": "2026-09-22",
+      "consolidation_len": 5
     },
     {
       "code": "STRC",
@@ -2374,7 +2528,7 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_WEAK",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 0.64,
       "event_date": "2026-09-18",
       "consolidation_len": 10
@@ -2396,7 +2550,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 0.77,
       "event_date": "2026-09-17",
       "consolidation_len": 6
@@ -2407,10 +2561,21 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 0.86,
       "event_date": "2026-09-16",
       "consolidation_len": 5
+    },
+    {
+      "code": "TASK",
+      "name": "Taskus Inc",
+      "primary_case": "B",
+      "primary_tf": "D",
+      "tags": "FAIL_STRONG",
+      "age": 1,
+      "breakout_pct": 2.37,
+      "event_date": "2026-09-21",
+      "consolidation_len": 6
     },
     {
       "code": "TH",
@@ -2418,20 +2583,20 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 6.2,
       "event_date": "2026-09-17",
       "consolidation_len": 6
     },
     {
-      "code": "TLX",
-      "name": "Telix Pharmaceuticals Limited ADR",
-      "primary_case": "B",
+      "code": "TJX",
+      "name": "TJX Companies",
+      "primary_case": "A",
       "primary_tf": "D",
-      "tags": "FAIL_STRONG",
-      "age": 4,
-      "breakout_pct": 2.8,
-      "event_date": "2026-09-15",
+      "tags": "",
+      "age": 1,
+      "breakout_pct": 1.15,
+      "event_date": "2026-09-21",
       "consolidation_len": 8
     },
     {
@@ -2451,9 +2616,20 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_WEAK",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 2.71,
       "event_date": "2026-09-18",
+      "consolidation_len": 5
+    },
+    {
+      "code": "TT",
+      "name": "Trane Technologies",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 0.58,
+      "event_date": "2026-09-21",
       "consolidation_len": 5
     },
     {
@@ -2462,8 +2638,8 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 0,
-      "breakout_pct": 1.04,
+      "age": 1,
+      "breakout_pct": 2.52,
       "event_date": "2026-09-21",
       "consolidation_len": 14
     },
@@ -2473,10 +2649,32 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 0.82,
       "event_date": "2026-09-16",
       "consolidation_len": 7
+    },
+    {
+      "code": "UPST",
+      "name": "Upstart Holdings  Inc.",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 0.67,
+      "event_date": "2026-09-22",
+      "consolidation_len": 5
+    },
+    {
+      "code": "URI",
+      "name": "United Rentals",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 0.61,
+      "event_date": "2026-09-22",
+      "consolidation_len": 8
     },
     {
       "code": "VFS",
@@ -2484,10 +2682,10 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
-      "breakout_pct": 0.93,
-      "event_date": "2026-09-17",
-      "consolidation_len": 13
+      "age": 1,
+      "breakout_pct": 3.68,
+      "event_date": "2026-09-21",
+      "consolidation_len": 5
     },
     {
       "code": "VLO",
@@ -2495,10 +2693,21 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 0.88,
       "event_date": "2026-09-16",
       "consolidation_len": 5
+    },
+    {
+      "code": "VRSN",
+      "name": "Verisign",
+      "primary_case": "A",
+      "primary_tf": "D",
+      "tags": "",
+      "age": 0,
+      "breakout_pct": 0.56,
+      "event_date": "2026-09-22",
+      "consolidation_len": 7
     },
     {
       "code": "WAT",
@@ -2506,7 +2715,7 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_STRONG",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 0.82,
       "event_date": "2026-09-17",
       "consolidation_len": 6
@@ -2517,8 +2726,8 @@
       "primary_case": "B",
       "primary_tf": "D",
       "tags": "FAIL_WEAK",
-      "age": 0,
-      "breakout_pct": 5.43,
+      "age": 1,
+      "breakout_pct": 6.24,
       "event_date": "2026-09-21",
       "consolidation_len": 6
     },
@@ -2528,43 +2737,21 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.71,
       "event_date": "2026-09-17",
       "consolidation_len": 7
     },
     {
-      "code": "WST",
-      "name": "West Pharmaceutical Services",
-      "primary_case": "B",
-      "primary_tf": "D",
-      "tags": "FAIL_STRONG",
-      "age": 4,
-      "breakout_pct": 1.31,
-      "event_date": "2026-09-15",
-      "consolidation_len": 5
-    },
-    {
-      "code": "ZBH",
-      "name": "Zimmer Biomet",
+      "code": "XP",
+      "name": "XP Inc",
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 4,
-      "breakout_pct": 1.21,
-      "event_date": "2026-09-15",
-      "consolidation_len": 5
-    },
-    {
-      "code": "ZD",
-      "name": "Ziff Davis Inc",
-      "primary_case": "A",
-      "primary_tf": "D",
-      "tags": "",
-      "age": 4,
-      "breakout_pct": 2.65,
-      "event_date": "2026-09-15",
-      "consolidation_len": 22
+      "age": 1,
+      "breakout_pct": 1.76,
+      "event_date": "2026-09-21",
+      "consolidation_len": 6
     },
     {
       "code": "ZLAB",
@@ -2572,7 +2759,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.94,
       "event_date": "2026-09-17",
       "consolidation_len": 5
@@ -2583,7 +2770,7 @@
       "primary_case": "A",
       "primary_tf": "D",
       "tags": "",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.27,
       "event_date": "2026-09-17",
       "consolidation_len": 5
