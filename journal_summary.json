@@ -1,35 +1,35 @@
 {
-  "total": 26837,
-  "days": 78,
+  "total": 27097,
+  "days": 79,
   "first_date": "2026-06-04",
-  "last_date": "2026-09-23",
+  "last_date": "2026-09-24",
   "by_case": {
-    "A": 17049,
-    "B": 9788
+    "A": 17246,
+    "B": 9851
   },
   "by_tf": {
-    "D": 24219,
-    "M": 66,
-    "W": 2552
+    "D": 24467,
+    "M": 67,
+    "W": 2563
   },
   "by_state": {
-    "1": 17715,
+    "1": 17975,
     "2": 5557,
     "3": 3455,
     "5": 110
   },
   "by_market": {
-    "kr": 8565,
-    "us": 18272
+    "kr": 8688,
+    "us": 18409
   },
   "by_tags": {
-    "": 17049,
-    "FAIL_STRONG": 6713,
-    "FAIL_WEAK": 3075
+    "": 17246,
+    "FAIL_STRONG": 6764,
+    "FAIL_WEAK": 3087
   },
   "recent": [
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "224760",
@@ -46,7 +46,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "169670",
@@ -63,7 +63,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "289010",
@@ -80,7 +80,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "131100",
@@ -97,7 +97,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "317860",
@@ -114,7 +114,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "054220",
@@ -131,7 +131,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "362990",
@@ -148,7 +148,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "043590",
@@ -165,7 +165,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "298060",
@@ -182,7 +182,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "016670",
@@ -199,7 +199,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "134060",
@@ -216,7 +216,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "004270",
@@ -233,7 +233,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "169330",
@@ -250,7 +250,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "368970",
@@ -267,7 +267,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "kr",
       "state": 1,
       "code": "335810",
@@ -284,7 +284,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "us",
       "state": 1,
       "code": "ZYME",
@@ -292,7 +292,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 1.27,
       "ret_5d": null,
       "ret_20d": null,
@@ -301,7 +301,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "us",
       "state": 1,
       "code": "ZLAB",
@@ -309,7 +309,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 1.94,
       "ret_5d": null,
       "ret_20d": null,
@@ -318,7 +318,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "us",
       "state": 1,
       "code": "ZBRA",
@@ -326,8 +326,8 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
-      "breakout_pct": 0.97,
+      "age": 1,
+      "breakout_pct": 3.18,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -335,7 +335,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "us",
       "state": 1,
       "code": "XP",
@@ -343,7 +343,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.76,
       "ret_5d": null,
       "ret_20d": null,
@@ -352,16 +352,16 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "us",
       "state": 1,
-      "code": "WMT",
-      "name": "Walmart",
+      "code": "WST",
+      "name": "West Pharmaceutical Services",
       "primary_case": "B",
       "tags": "FAIL_WEAK",
       "primary_tf": "D",
-      "age": 0,
-      "breakout_pct": 1.03,
+      "age": 1,
+      "breakout_pct": 1.4,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -369,7 +369,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "us",
       "state": 1,
       "code": "WEST",
@@ -377,8 +377,8 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
-      "breakout_pct": 2.12,
+      "age": 1,
+      "breakout_pct": 0.87,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -386,7 +386,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "us",
       "state": 1,
       "code": "WDFC",
@@ -394,8 +394,8 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
-      "breakout_pct": 1.03,
+      "age": 1,
+      "breakout_pct": 1.24,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -403,7 +403,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "us",
       "state": 1,
       "code": "WDAY",
@@ -411,7 +411,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 1.71,
       "ret_5d": null,
       "ret_20d": null,
@@ -420,7 +420,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "us",
       "state": 1,
       "code": "WBD",
@@ -428,7 +428,7 @@
       "primary_case": "B",
       "tags": "FAIL_WEAK",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 6.24,
       "ret_5d": null,
       "ret_20d": null,
@@ -437,7 +437,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "us",
       "state": 1,
       "code": "WAT",
@@ -445,7 +445,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 0.82,
       "ret_5d": null,
       "ret_20d": null,
@@ -454,24 +454,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
-      "market": "us",
-      "state": 1,
-      "code": "VLO",
-      "name": "Valero Energy",
-      "primary_case": "B",
-      "tags": "FAIL_STRONG",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 0.88,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "us",
       "state": 1,
       "code": "VFS",
@@ -479,7 +462,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 3.68,
       "ret_5d": null,
       "ret_20d": null,
@@ -488,24 +471,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
-      "market": "us",
-      "state": 1,
-      "code": "UHS",
-      "name": "Universal Health Services",
-      "primary_case": "B",
-      "tags": "FAIL_STRONG",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 0.82,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "us",
       "state": 1,
       "code": "UAL",
@@ -513,7 +479,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 2.52,
       "ret_5d": null,
       "ret_20d": null,
@@ -522,7 +488,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "market": "us",
       "state": 1,
       "code": "TT",
@@ -531,7 +497,41 @@
       "tags": "",
       "primary_tf": "D",
       "age": 1,
-      "breakout_pct": 0.58,
+      "breakout_pct": 0.53,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-24",
+      "market": "us",
+      "state": 1,
+      "code": "TRMD",
+      "name": "Torm PLC",
+      "primary_case": "B",
+      "tags": "FAIL_WEAK",
+      "primary_tf": "D",
+      "age": 3,
+      "breakout_pct": 2.71,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-24",
+      "market": "us",
+      "state": 1,
+      "code": "TMO",
+      "name": "Thermo Fisher Scientific",
+      "primary_case": "B",
+      "tags": "FAIL_STRONG",
+      "primary_tf": "W",
+      "age": 1,
+      "breakout_pct": 0.76,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
