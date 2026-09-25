@@ -1,35 +1,35 @@
 {
-  "total": 27097,
-  "days": 79,
+  "total": 27355,
+  "days": 80,
   "first_date": "2026-06-04",
-  "last_date": "2026-09-24",
+  "last_date": "2026-09-25",
   "by_case": {
-    "A": 17246,
-    "B": 9851
+    "A": 17445,
+    "B": 9910
   },
   "by_tf": {
-    "D": 24467,
-    "M": 67,
-    "W": 2563
+    "D": 24711,
+    "M": 68,
+    "W": 2576
   },
   "by_state": {
-    "1": 17975,
+    "1": 18233,
     "2": 5557,
     "3": 3455,
     "5": 110
   },
   "by_market": {
-    "kr": 8688,
-    "us": 18409
+    "kr": 8811,
+    "us": 18544
   },
   "by_tags": {
-    "": 17246,
-    "FAIL_STRONG": 6764,
-    "FAIL_WEAK": 3087
+    "": 17445,
+    "FAIL_STRONG": 6813,
+    "FAIL_WEAK": 3097
   },
   "recent": [
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "224760",
@@ -46,7 +46,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "169670",
@@ -63,7 +63,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "289010",
@@ -80,7 +80,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "131100",
@@ -97,7 +97,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "317860",
@@ -114,7 +114,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "054220",
@@ -131,7 +131,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "362990",
@@ -148,7 +148,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "043590",
@@ -165,7 +165,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "298060",
@@ -182,7 +182,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "016670",
@@ -199,7 +199,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "134060",
@@ -216,7 +216,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "004270",
@@ -233,7 +233,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "169330",
@@ -250,7 +250,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "368970",
@@ -267,7 +267,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "kr",
       "state": 1,
       "code": "335810",
@@ -284,41 +284,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
-      "market": "us",
-      "state": 1,
-      "code": "ZYME",
-      "name": "Zymeworks Inc.",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 1.27,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-24",
-      "market": "us",
-      "state": 1,
-      "code": "ZLAB",
-      "name": "Zai Lab Ltd ADR",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 1.94,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "us",
       "state": 1,
       "code": "ZBRA",
@@ -326,8 +292,8 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
-      "breakout_pct": 3.18,
+      "age": 3,
+      "breakout_pct": 0.56,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -335,7 +301,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "us",
       "state": 1,
       "code": "XP",
@@ -343,7 +309,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 4,
       "breakout_pct": 1.76,
       "ret_5d": null,
       "ret_20d": null,
@@ -352,24 +318,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
-      "market": "us",
-      "state": 1,
-      "code": "WST",
-      "name": "West Pharmaceutical Services",
-      "primary_case": "B",
-      "tags": "FAIL_WEAK",
-      "primary_tf": "D",
-      "age": 1,
-      "breakout_pct": 1.4,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "us",
       "state": 1,
       "code": "WEST",
@@ -377,8 +326,8 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
-      "breakout_pct": 0.87,
+      "age": 3,
+      "breakout_pct": 2.0,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -386,7 +335,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "us",
       "state": 1,
       "code": "WDFC",
@@ -403,24 +352,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
-      "market": "us",
-      "state": 1,
-      "code": "WDAY",
-      "name": "Workday, Inc.",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 1.71,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "us",
       "state": 1,
       "code": "WBD",
@@ -428,7 +360,7 @@
       "primary_case": "B",
       "tags": "FAIL_WEAK",
       "primary_tf": "D",
-      "age": 2,
+      "age": 4,
       "breakout_pct": 6.24,
       "ret_5d": null,
       "ret_20d": null,
@@ -437,24 +369,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
-      "market": "us",
-      "state": 1,
-      "code": "WAT",
-      "name": "Waters Corporation",
-      "primary_case": "B",
-      "tags": "FAIL_STRONG",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 0.82,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "us",
       "state": 1,
       "code": "VFS",
@@ -462,7 +377,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 4,
       "breakout_pct": 3.68,
       "ret_5d": null,
       "ret_20d": null,
@@ -471,7 +386,92 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
+      "market": "us",
+      "state": 1,
+      "code": "VEON",
+      "name": "VEON Ltd ADR",
+      "primary_case": "B",
+      "tags": "FAIL_WEAK",
+      "primary_tf": "D",
+      "age": 1,
+      "breakout_pct": 2.03,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-25",
+      "market": "us",
+      "state": 1,
+      "code": "VEEV",
+      "name": "Veeva Systems",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 1,
+      "breakout_pct": 0.9,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-25",
+      "market": "us",
+      "state": 1,
+      "code": "VCYT",
+      "name": "Veracyte  Inc.",
+      "primary_case": "B",
+      "tags": "FAIL_STRONG",
+      "primary_tf": "D",
+      "age": 1,
+      "breakout_pct": 5.54,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-25",
+      "market": "us",
+      "state": 1,
+      "code": "URI",
+      "name": "United Rentals",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 3,
+      "breakout_pct": 0.97,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-25",
+      "market": "us",
+      "state": 1,
+      "code": "UFPT",
+      "name": "UFP Technologies Inc",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 1,
+      "breakout_pct": 2.76,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-25",
       "market": "us",
       "state": 1,
       "code": "UAL",
@@ -479,7 +479,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 4,
       "breakout_pct": 2.52,
       "ret_5d": null,
       "ret_20d": null,
@@ -488,7 +488,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "us",
       "state": 1,
       "code": "TT",
@@ -496,8 +496,8 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
-      "breakout_pct": 0.53,
+      "age": 0,
+      "breakout_pct": 0.61,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -505,24 +505,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-24",
-      "market": "us",
-      "state": 1,
-      "code": "TRMD",
-      "name": "Torm PLC",
-      "primary_case": "B",
-      "tags": "FAIL_WEAK",
-      "primary_tf": "D",
-      "age": 3,
-      "breakout_pct": 2.71,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "market": "us",
       "state": 1,
       "code": "TMO",
@@ -532,6 +515,23 @@
       "primary_tf": "W",
       "age": 1,
       "breakout_pct": 0.76,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-25",
+      "market": "us",
+      "state": 1,
+      "code": "TJX",
+      "name": "TJX Companies",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 4,
+      "breakout_pct": 1.15,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
