@@ -1,35 +1,52 @@
 {
-  "total": 27786,
-  "days": 82,
+  "total": 27994,
+  "days": 83,
   "first_date": "2026-06-04",
-  "last_date": "2026-09-29",
+  "last_date": "2026-09-30",
   "by_case": {
-    "A": 17774,
-    "B": 10012
+    "A": 17940,
+    "B": 10054
   },
   "by_tf": {
-    "D": 25117,
-    "M": 72,
-    "W": 2597
+    "D": 25311,
+    "M": 74,
+    "W": 2609
   },
   "by_state": {
-    "1": 18664,
+    "1": 18872,
     "2": 5557,
     "3": 3455,
     "5": 110
   },
   "by_market": {
-    "kr": 9059,
-    "us": 18727
+    "kr": 9180,
+    "us": 18814
   },
   "by_tags": {
-    "": 17774,
-    "FAIL_STRONG": 6887,
-    "FAIL_WEAK": 3125
+    "": 17940,
+    "FAIL_STRONG": 6918,
+    "FAIL_WEAK": 3136
   },
   "recent": [
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
+      "market": "kr",
+      "state": 1,
+      "code": "233250",
+      "name": "메디안디노스틱",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 2.08,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-30",
       "market": "kr",
       "state": 1,
       "code": "289010",
@@ -37,7 +54,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 0.94,
       "ret_5d": null,
       "ret_20d": null,
@@ -46,7 +63,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "kr",
       "state": 1,
       "code": "254160",
@@ -54,7 +71,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 2.97,
       "ret_5d": null,
       "ret_20d": null,
@@ -63,7 +80,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "kr",
       "state": 1,
       "code": "131100",
@@ -71,7 +88,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 8.15,
       "ret_5d": null,
       "ret_20d": null,
@@ -80,7 +97,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "kr",
       "state": 1,
       "code": "317860",
@@ -97,7 +114,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "kr",
       "state": 1,
       "code": "362990",
@@ -114,7 +131,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "kr",
       "state": 1,
       "code": "331660",
@@ -122,7 +139,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 0.6,
       "ret_5d": null,
       "ret_20d": null,
@@ -131,7 +148,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "kr",
       "state": 1,
       "code": "298060",
@@ -139,7 +156,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 6.26,
       "ret_5d": null,
       "ret_20d": null,
@@ -148,24 +165,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
-      "market": "kr",
-      "state": 1,
-      "code": "043590",
-      "name": "웰킵스하이텍",
-      "primary_case": "B",
-      "tags": "FAIL_WEAK",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 2.06,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "kr",
       "state": 1,
       "code": "004270",
@@ -173,7 +173,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 0.71,
       "ret_5d": null,
       "ret_20d": null,
@@ -182,33 +182,16 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "kr",
       "state": 1,
-      "code": "016670",
-      "name": "디모아",
-      "primary_case": "B",
-      "tags": "FAIL_STRONG",
-      "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 1.18,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-29",
-      "market": "kr",
-      "state": 1,
-      "code": "134060",
-      "name": "이퓨쳐",
+      "code": "364950",
+      "name": "에이아이코리아",
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 4,
-      "breakout_pct": 0.54,
+      "age": 0,
+      "breakout_pct": 0.74,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -216,7 +199,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
+      "market": "kr",
+      "state": 1,
+      "code": "900070",
+      "name": "글로벌에스엠",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 0,
+      "breakout_pct": 11.98,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-30",
       "market": "kr",
       "state": 1,
       "code": "091340",
@@ -224,7 +224,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
+      "age": 1,
       "breakout_pct": 2.3,
       "ret_5d": null,
       "ret_20d": null,
@@ -233,24 +233,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
-      "market": "kr",
-      "state": 1,
-      "code": "169330",
-      "name": "엠브레인",
-      "primary_case": "B",
-      "tags": "FAIL_STRONG",
-      "primary_tf": "D",
-      "age": 0,
-      "breakout_pct": 2.64,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "kr",
       "state": 1,
       "code": "290120",
@@ -258,7 +241,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 0.91,
       "ret_5d": null,
       "ret_20d": null,
@@ -267,15 +250,32 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "kr",
       "state": 1,
-      "code": "057540",
-      "name": "옴니시스템",
+      "code": "169330",
+      "name": "엠브레인",
+      "primary_case": "B",
+      "tags": "FAIL_STRONG",
+      "primary_tf": "D",
+      "age": 1,
+      "breakout_pct": 2.64,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-30",
+      "market": "kr",
+      "state": 1,
+      "code": "019770",
+      "name": "서연탑메탈",
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 4,
+      "age": 0,
       "breakout_pct": 1.85,
       "ret_5d": null,
       "ret_20d": null,
@@ -284,7 +284,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "us",
       "state": 1,
       "code": "XERS",
@@ -292,7 +292,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 6.85,
       "ret_5d": null,
       "ret_20d": null,
@@ -301,7 +301,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "us",
       "state": 1,
       "code": "WINA",
@@ -309,8 +309,8 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 0,
-      "breakout_pct": 0.61,
+      "age": 1,
+      "breakout_pct": 1.84,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
@@ -318,7 +318,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "us",
       "state": 1,
       "code": "WDFC",
@@ -326,7 +326,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.0,
       "ret_5d": null,
       "ret_20d": null,
@@ -335,7 +335,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "us",
       "state": 1,
       "code": "WBD",
@@ -352,7 +352,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "us",
       "state": 1,
       "code": "WAT",
@@ -360,7 +360,7 @@
       "primary_case": "B",
       "tags": "FAIL_WEAK",
       "primary_tf": "D",
-      "age": 1,
+      "age": 2,
       "breakout_pct": 1.51,
       "ret_5d": null,
       "ret_20d": null,
@@ -369,7 +369,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "us",
       "state": 1,
       "code": "VTRS",
@@ -377,7 +377,7 @@
       "primary_case": "B",
       "tags": "FAIL_WEAK",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.31,
       "ret_5d": null,
       "ret_20d": null,
@@ -386,7 +386,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "us",
       "state": 1,
       "code": "VEON",
@@ -394,7 +394,7 @@
       "primary_case": "B",
       "tags": "FAIL_WEAK",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 2.03,
       "ret_5d": null,
       "ret_20d": null,
@@ -403,7 +403,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "us",
       "state": 1,
       "code": "VEEV",
@@ -411,7 +411,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.61,
       "ret_5d": null,
       "ret_20d": null,
@@ -420,7 +420,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "us",
       "state": 1,
       "code": "VCYT",
@@ -428,7 +428,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 5.54,
       "ret_5d": null,
       "ret_20d": null,
@@ -437,7 +437,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
+      "market": "us",
+      "state": 1,
+      "code": "VCTR",
+      "name": "Victory Capital Holdings  Inc.",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 1,
+      "breakout_pct": 0.51,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-30",
       "market": "us",
       "state": 1,
       "code": "UFPT",
@@ -445,7 +462,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 3,
+      "age": 4,
       "breakout_pct": 2.76,
       "ret_5d": null,
       "ret_20d": null,
@@ -454,7 +471,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "us",
       "state": 1,
       "code": "TXN",
@@ -462,7 +479,7 @@
       "primary_case": "B",
       "tags": "FAIL_STRONG",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 1.73,
       "ret_5d": null,
       "ret_20d": null,
@@ -471,7 +488,7 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "market": "us",
       "state": 1,
       "code": "TT",
@@ -479,7 +496,7 @@
       "primary_case": "A",
       "tags": "",
       "primary_tf": "D",
-      "age": 2,
+      "age": 3,
       "breakout_pct": 2.71,
       "ret_5d": null,
       "ret_20d": null,
@@ -488,7 +505,24 @@
       "ret_250d": null
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
+      "market": "us",
+      "state": 1,
+      "code": "TRMD",
+      "name": "Torm PLC",
+      "primary_case": "A",
+      "tags": "",
+      "primary_tf": "D",
+      "age": 1,
+      "breakout_pct": 0.84,
+      "ret_5d": null,
+      "ret_20d": null,
+      "ret_60d": null,
+      "ret_120d": null,
+      "ret_250d": null
+    },
+    {
+      "date": "2026-09-30",
       "market": "us",
       "state": 1,
       "code": "TMO",
@@ -498,40 +532,6 @@
       "primary_tf": "W",
       "age": 2,
       "breakout_pct": 0.76,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-29",
-      "market": "us",
-      "state": 1,
-      "code": "TLN",
-      "name": "Talen Energy Corporation",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 0,
-      "breakout_pct": 1.7,
-      "ret_5d": null,
-      "ret_20d": null,
-      "ret_60d": null,
-      "ret_120d": null,
-      "ret_250d": null
-    },
-    {
-      "date": "2026-09-29",
-      "market": "us",
-      "state": 1,
-      "code": "TEL",
-      "name": "TE Connectivity",
-      "primary_case": "A",
-      "tags": "",
-      "primary_tf": "D",
-      "age": 2,
-      "breakout_pct": 1.3,
       "ret_5d": null,
       "ret_20d": null,
       "ret_60d": null,
